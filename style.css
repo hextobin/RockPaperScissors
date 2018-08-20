@@ -1,0 +1,26 @@
+#rock {
+  background-image: url('https://i.redd.it/brxxveprs2e01.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 50px;
+  width: 200px;
+  background-position: 70px center;
+}
+
+#paper {
+  background-image: url('https://i5.walmartimages.com/asr/950a3698-948a-4b03-b9a2-749e60647413_1.4159329e4088f2c525b3a0bbf37b3caf.jpeg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 50px;
+  width: 200px;
+  background-position: 70px center;
+}
+
+#scissors {
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/71t7UGkz2IL._SL1500_.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 50px;
+  width: 200px;
+  background-position: 70px center;
+}
