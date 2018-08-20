@@ -34,8 +34,6 @@ rock.addEventListener('click', function() {
   win_label.innerHTML = 'Wins = ' + player_wins
   loss_label.innerHTML = 'Losses = ' + (player_attempts - player_wins - player_ties)
   tie_label.innerHTML = 'Ties = ' + (player_ties)
-
-
 })
 
 paper.addEventListener('click', function() {
@@ -60,8 +58,6 @@ paper.addEventListener('click', function() {
   win_label.innerHTML = 'Wins = ' + player_wins
   loss_label.innerHTML = 'Losses = ' + (player_attempts - player_wins - player_ties)
   tie_label.innerHTML = 'Ties = ' + (player_ties)
-
-
 })
 
 scissors.addEventListener('click', function() {
@@ -86,8 +82,6 @@ scissors.addEventListener('click', function() {
   win_label.innerHTML = 'Wins = ' + player_wins
   loss_label.innerHTML = 'Losses = ' + (player_attempts - player_wins - player_ties)
   tie_label.innerHTML = 'Ties = ' + (player_ties)
-
-
 })
 
 win_label.innerHTML = 'Wins = ' + player_wins
